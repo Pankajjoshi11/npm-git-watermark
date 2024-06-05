@@ -1,0 +1,16 @@
+{
+  "name": "git-watermark",
+  "version": "1.0.0",
+  "description": "A package to add a GitHub username footer to a web development project",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "keywords": [
+    "npm",
+    "Github",
+    "Web Development"
+  ],
+  "author": "Pankaj Joshi",
+  "license": "ISC"
+}
